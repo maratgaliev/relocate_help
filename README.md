@@ -7,4 +7,4 @@ If you can refer candidate directly to your company - please add your company na
 
 | Company | Job link | Contact person |
 |---------|----------|----------------|
-|         |          |                |
+| Blinkist | [DevOps Engineer, relocation to Germany or Spain](https://www.comeet.com/jobs/blinkist/06.00B/senior-devops-platform-engineer/24.82B) | https://t.me/sasha_fomin |
