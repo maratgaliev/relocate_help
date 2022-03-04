@@ -5,6 +5,7 @@ This repo probably can help you speedup your application and you can apply throu
 
 If you can refer candidate directly to your company - please add your company name/link/contact details here.
 
-| Company | Job link | Contact person |
-|---------|----------|----------------|
-| Blinkist | [DevOps Engineer, relocation to Germany or Spain](https://www.comeet.com/jobs/blinkist/06.00B/senior-devops-platform-engineer/24.82B) | https://t.me/sasha_fomin |
+| Company | Job link | Relocation to | Contact person |
+|---------|----------|---------------|----------------|
+| Blinkist | [DevOps Engineer](https://www.comeet.com/jobs/blinkist/06.00B/senior-devops-platform-engineer/24.82B) | Germany or Spain | https://t.me/sasha_fomin |
+| [shyftplan](https://shyftplan.com/en) | [Backend](https://careers.shyftplan.com/o/senior-backend-engineer-fmd?source=Den_Patin) (Ruby/RoR), [Frontend](https://careers.shyftplan.com/o/senior-frontend-engineer-fmd?source=Den_Patin) (TypeScript/Vue), and [Full-stack](https://careers.shyftplan.com/o/full-stack-engineer-fmd?source=Den_Patin) Engineer, [QA Lead](https://careers.shyftplan.com/o/software-quality-assurance-manager-engineer-fmd?source=Den_Patin) | Germany | den@hey.com or https://t.me/den92de |
